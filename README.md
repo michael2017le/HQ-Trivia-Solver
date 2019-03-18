@@ -4,10 +4,11 @@ Created an HQ trivia solver during HackUTD 2018.
 
 ## Background
 ---
-- **What is HQ?**
+- ## **What is HQ?**
 
    HQ is a trivia game where a speaker asks questions **_live_**  
       and you're given a short amount of time to answer the questions.  
+   [hq]: ./hq.png "An example of question and answers"
    There is a cash prize but only the few that answers **EVERY** question correctly are eligible to claim the prize.  
    The prize can range anywhere from **$1200** to more than **$50,000** and the ones that answer every question correctly split the pot.  
    Depending on the prize at stake, the speaker asks anywhere from 8 to 15 questions.   
@@ -38,4 +39,5 @@ Created an HQ trivia solver during HackUTD 2018.
    constraints, I was able to pull through and make something that I could share with my friends! I think out of  
    all of the fun moments during the hackathon, my favorite was bringing something that I had built **by myself**  
    and presenting the final product and explaining how it work to my friends!  
-   
+
+ 
